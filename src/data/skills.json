@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "name": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "name": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "name": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "name": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  }
+]

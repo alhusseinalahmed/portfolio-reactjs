@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Frontend Developer",
+    "organisation": "organisation A",
+    "startDate": "2020-01-01",
+    "endDate": "2022-12-31",
+    "experiences": ["Experience A", "Experience B"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "title": "Backend Developer",
+    "organisation": "organisation B",
+    "startDate": "2022-01-01",
+    "endDate": "2023-12-31",
+    "experiences": ["Experience C", "Experience D"],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "title": "Full Stack Developer",
+    "organisation": "organisation C",
+    "startDate": "2023-01-01",
+    "endDate": "2024-12-31",
+    "experiences": ["Experience E", "Experience F"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
