@@ -1,26 +1,13 @@
 [
   {
-    "title": "Frontend Developer",
-    "organisation": "organisation A",
-    "startDate": "2020-01-01",
-    "endDate": "2022-12-31",
-    "experiences": ["Experience A", "Experience B"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "title": "Backend Developer",
-    "organisation": "organisation B",
-    "startDate": "2022-01-01",
-    "endDate": "2023-12-31",
-    "experiences": ["Experience C", "Experience D"],
-    "imageSrc": "history/netflix.png"
-  },
-  {
-    "title": "Full Stack Developer",
-    "organisation": "organisation C",
-    "startDate": "2023-01-01",
-    "endDate": "2024-12-31",
-    "experiences": ["Experience E", "Experience F"],
-    "imageSrc": "history/microsoft.png"
+    "title": "Unity Game Developer (Summer job)",
+    "organisation": "Acino AB",
+    "startDate": "2023-08",
+    "endDate": "2022-08",
+    "experiences": [
+      "Worked on a small game called Wonder Wand",
+      "Contributed to a custom level editor for the game"
+    ],
+    "imageSrc": "history/unity.png"
   }
 ]

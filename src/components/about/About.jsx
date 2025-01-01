@@ -21,33 +21,30 @@ export const About = () => {
                 I am a frontend developer with a passion for creating
                 user-friendly and visually appealing interfaces. My expertise
                 lies in HTML, CSS, and JavaScript, along with frameworks such as
-                React, Vue, and Angular. I have a strong understanding of
-                responsive design principles and have experience working with
-                popular CSS frameworks like Bootstrap and Tailwind CSS.
+                React, Svlete. I have a strong understanding of responsive
+                design principles and have experience working with popular CSS
+                frameworks like Tailwind CSS.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="serverIcon" />
+            <img src={getImageUrl("about/java.png")} alt="serverIcon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Java Developer</h3>
               <p>
-                I am a backend developer with a focus on building robust and
-                scalable server-side applications. My expertise lies in
-                languages like Java, Python, and Node.js, as well as frameworks
-                such as Spring Boot and Express.js.
+                I am a java developer with a passion for creating robust and
+                efficient server-side applications. My expertise lies in Java,
+                Spring Boot, and MySQL.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="uiIcon" />
+            <img src={getImageUrl("about/unity.png")} alt="uiIcon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Game Developer</h3>
               <p>
-                I am a UI designer with a passion for creating visually stunning
-                and user-friendly interfaces. My expertise lies in tools such as
-                Adobe XD, Figma, and Sketch, along with a strong understanding
-                of design principles and user experience design.
+                I am a game developer with a passion for creating interactive
+                and visually appealing games. My expertise lies in Unity and C#.
               </p>
             </div>
           </li>

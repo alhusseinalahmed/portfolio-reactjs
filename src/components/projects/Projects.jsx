@@ -27,10 +27,20 @@ export const Projects = () => {
                 })}
               </ul>
               <div className={styles.projectLinks}>
-                <a className={styles.projectLink} href={project.demo}>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.projectLink}
+                  href={project.demo}
+                >
                   Demo
                 </a>
-                <a className={styles.projectLink} href={project.repo}>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.projectLink}
+                  href={project.repo}
+                >
                   Repo
                 </a>
               </div>

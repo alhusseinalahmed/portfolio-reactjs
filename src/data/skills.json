@@ -18,5 +18,25 @@
   {
     "name": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "name": "Unity",
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "name": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "name": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "name": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "name": "MySQL",
+    "imageSrc": "skills/mysql.png"
   }
 ]
