@@ -47,6 +47,11 @@
 .skillImageContainer img {
   width: 75px;
   height: 75px;
+  transition: transform 0.3s ease;
+}
+
+.skillImageContainer img:hover {
+  transform: scale(1.25);
 }
 
 .skill p {

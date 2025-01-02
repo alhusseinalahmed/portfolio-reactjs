@@ -28,7 +28,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/java.png")} alt="serverIcon" />
+            <img src={getImageUrl("skills/java.png")} alt="serverIcon" />
             <div className={styles.aboutItemText}>
               <h3>Java Developer</h3>
               <p>
@@ -39,7 +39,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/unity.png")} alt="uiIcon" />
+            <img src={getImageUrl("skills/unity.png")} alt="uiIcon" />
             <div className={styles.aboutItemText}>
               <h3>Game Developer</h3>
               <p>

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Information and Media Technology",
+    "type": "High School",
+    "schoolName": "Maja beskow gymnasiet",
+    "imageSrc": "education/mbg.png",
+    "start_year": "2020",
+    "end_year": "2023",
+    "location": "Umeå, Sweden"
+  },
+  {
+    "name": "Software Technology",
+    "type": "Bachelor",
+    "schoolName": "Linnaeus University",
+    "imageSrc": "education/lnu.png",
+    "start_year": "2023",
+    "end_year": "2026",
+    "location": "Växjö, Sweden"
+  }
+]
