@@ -26,7 +26,6 @@
 }
 
 .aboutImage {
-  width: 35%;
   margin-right: 15px;
 }
 
@@ -67,6 +66,12 @@
 .aboutItem p {
   font-size: 25px;
   margin-left: 0;
+}
+
+.aboutItem img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
 }
 
 @media screen and (max-width: 830px) {
